@@ -1,6 +1,6 @@
 ### Hi there 👋, Hi! I am PanzerWeb
 #### Web Developer/Designer
-![Web Developer/Designer](https://github.com/panzerweb/panzerweb/blob/main/web-development-coding-programming-futuristic-banner-computer-code-laptop_3482-5582.webp)
+![Web Developer/Designer](https://github.com/panzerweb/panzerweb/blob/main/83b809857acd41a7bad4935b4734f9fc.gif)
 
 An aspiring great web developer/ UI-Designer/Digital Artist. 
 

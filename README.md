@@ -6,8 +6,8 @@ An aspiring great web developer/ UI-Designer/Digital Artist.
 
 Skills: HTML5, CSS, JavaScript, Java, Bootstrap
 
-- 🔭 I’m currently working on Kiddie WebPark 
-- 🌱 I’m currently learning Bootstrap, JavaScript, React 
+- 🔭 I’m currently working on any side projects 
+- 🌱 I’m currently learning Bootstrap, JavaScript 
 - 🤔 I’m looking for help with Anyone who knew coding 
 - 💬 Ask me about HTML, CSS, Bootstrap 
 - 📫 How to reach me: selwynvillar@gmail.com 

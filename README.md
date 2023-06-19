@@ -2,9 +2,9 @@
 #### Web Developer/Designer
 ![Web Developer/Designer](https://github.com/panzerweb/panzerweb/blob/main/83b809857acd41a7bad4935b4734f9fc.gif)
 
-An aspiring great web developer/ UI-Designer/Digital Artist. 
+An aspiring Front-End Web Developer/ UI-Designer/Graphic Designer. 
 
-Skills: HTML5, CSS, JavaScript, Java, Bootstrap
+Skills: HTML5, CSS, JavaScript, Java, Bootstrap, GIMP, Figma, Canva
 
 - 🔭 I’m currently working on any side projects 
 - 🌱 I’m currently learning Bootstrap, JavaScript 

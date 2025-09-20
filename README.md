@@ -1,5 +1,11 @@
 # 💫 About Me:
-Hi! My name is Romeo Selwyn Villar. I associate myself with the name Panzerweb.<br>I am developer that loves to create websites and web applications.<br>It is my passion to deliver and create systems and projects, as well as improve on the IT Industry.<br><br>I am currently learning ReactJS, Supabase, Laravel, PostgreSQL.<br>I do have strong foundational skills on HTML, CSS, JavaScript and Php.<br><br>Willing to learn from developers.<br>When not coding, I also do Digital Arts, Graphic Designs, Creative Writing.
+Hi! My name is Romeo Selwyn Villar. I associate myself with the name Panzerweb.<br>I am a developer that really loves to create simple to complex projects.<br>
+I am still a student so I'm still am really looking and discovering what I do best in this field, I'm not the best programmer nor I plan to be, I just want to be a dev
+that creates things for the sake of having fun and improving my skillsets. <br>
+Fun Fact about me is that, I still struggle to read documentations, and other technologies which is frustrating knowing how essential it is. <br>
+Anyways, I program because I love it, I code because it is my newfound passion. I struggle a lot such as identifying errors, even looking back at 
+creating a simple CRUD app is such a trigger for my imposter syndrome. <br>
+To all devs out there, here I am, good luck to me and my programming journey. <br>
 
 
 ## 🌐 Socials:
